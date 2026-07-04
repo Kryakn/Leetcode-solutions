@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/0263-ugly-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kryakn/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
