@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kryakn/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1089-duplicate-zeros](https://github.com/Kryakn/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Kryakn/Leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 ## Two Pointers
 |  |
 | ------- |
