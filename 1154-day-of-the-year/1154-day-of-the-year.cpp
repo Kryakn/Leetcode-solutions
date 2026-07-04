@@ -9,10 +9,9 @@ public:
         if(year % 400 ==0 or (year%4==0 and year%100!=0)){
            mon[1] = 29; 
         }
-        int d = 0;
         for(int i=0;i<month-1;i++){
-            d=d+mon[i];
+            day=day+mon[i];
         }
-        return d + day;
+        return day;
     }
 };
