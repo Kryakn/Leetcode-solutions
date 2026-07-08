@@ -1,14 +1,34 @@
 class Solution {
 public:
-    int kthSmallest(vector<vector<int>>& matrix, int k) {
+    int fun(vector<vector<int>>&matrix,int mid){
         int n = matrix.size();
-        vector<int>arr;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                arr.push_back(matrix[i][j]);
+        int row = n-1;
+        int col = 0;
+        int count = 0;
+        while(row>=0 && col < n){
+            if(matrix[row][col] <= mid){
+                count=count+row+1;
+                col++;
+            }
+            else{
+                row--;
             }
         }
-        sort(arr.begin(),arr.end());
-        return arr[k-1];
+        return count;
+    }
+    int kthSmallest(vector<vector<int>>& matrix, int k) {
+        int n = matrix.size();
+        int low = matrix[0][0];
+        int high = matrix[n-1][n-1];
+        while(low<high){
+            int mid = low + (high - low)/2;
+            if(fun(matrix,mid)<k){
+                low = mid + 1;
+            }
+            else{
+                high = mid;
+            }
+        }
+        return low;
     }
 };
