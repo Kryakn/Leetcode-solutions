@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kryakn/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0954-array-of-doubled-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Kryakn/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/Kryakn/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Kryakn/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1288-remove-covered-intervals](https://github.com/Kryakn/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kryakn/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0954-array-of-doubled-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Kryakn/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/Kryakn/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/Kryakn/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kryakn/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -133,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Kryakn/Leetcode-solutions/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kryakn/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
