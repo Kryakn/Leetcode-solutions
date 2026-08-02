@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kryakn/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Kryakn/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Kryakn/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Kryakn/Leetcode-solutions/tree/master/1154-day-of-the-year) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Kryakn/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kryakn/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kryakn/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0877-stone-game](https://github.com/Kryakn/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0954-array-of-doubled-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Kryakn/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Kryakn/Leetcode-solutions/tree/master/1051-height-checker) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Kryakn/Leetcode-solutions/tree/master/0413-arithmetic-slices) |
+| [0877-stone-game](https://github.com/Kryakn/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Kryakn/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/Kryakn/Leetcode-solutions/tree/master/1927-sum-game) |
 ## Counting Sort
 |  |
