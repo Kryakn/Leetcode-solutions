@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int percentageLetter(string s, char letter) {
+        int count = 0;
+        int totalCount = 0;
+
+        for(int i=0; i<s.size(); i++){
+            if(s[i] == letter){
+                count++;
+            }
+            totalCount++;
+        }
+        if(count == 0) return 0;
+        return (count*100)/totalCount;
+    }
+};
