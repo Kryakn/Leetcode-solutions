@@ -6,7 +6,7 @@ public:
         mp[x]++;
       }  
       vector<pair<char,int>>up(mp.begin(),mp.end());
-      sort(up.begin(),up.end(),[] (auto &a ,auto &b){
+      sort(up.begin(),up.end(),[] (auto a ,auto b){
         return a.second>b.second;
       });
 
