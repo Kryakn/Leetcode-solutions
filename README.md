@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kryakn/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2404-most-frequent-even-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kryakn/Leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3731-find-missing-elements](https://github.com/Kryakn/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kryakn/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kryakn/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2404-most-frequent-even-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Kryakn/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Kryakn/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2404-most-frequent-even-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
