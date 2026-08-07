@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Kryakn/Leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0263-ugly-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kryakn/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kryakn/Leetcode-solutions/tree/master/0877-stone-game) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Kryakn/Leetcode-solutions/tree/master/0832-flipping-an-image) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Kryakn/Leetcode-solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
