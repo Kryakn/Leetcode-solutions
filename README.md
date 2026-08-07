@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Kryakn/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Kryakn/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Kryakn/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/Kryakn/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Kryakn/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Kryakn/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Kryakn/Leetcode-solutions/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/Kryakn/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Kryakn/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kryakn/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
