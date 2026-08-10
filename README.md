@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Kryakn/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Kryakn/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0164-maximum-gap](https://github.com/Kryakn/Leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Kryakn/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0164-maximum-gap](https://github.com/Kryakn/Leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kryakn/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kryakn/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Kryakn/Leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/Kryakn/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Kryakn/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
@@ -227,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kryakn/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Kryakn/Leetcode-solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Kryakn/Leetcode-solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
