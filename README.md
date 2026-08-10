@@ -238,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Kryakn/Leetcode-solutions/tree/master/0164-maximum-gap) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Kryakn/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
