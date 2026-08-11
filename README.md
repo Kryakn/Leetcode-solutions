@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Kryakn/Leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kryakn/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kryakn/Leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3731-find-missing-elements](https://github.com/Kryakn/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kryakn/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kryakn/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kryakn/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kryakn/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Kryakn/Leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Kryakn/Leetcode-solutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kryakn/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Kryakn/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
