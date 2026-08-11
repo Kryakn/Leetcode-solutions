@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Kryakn/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Kryakn/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Kryakn/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/Kryakn/Leetcode-solutions/tree/master/0164-maximum-gap) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Kryakn/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Kryakn/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Kryakn/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
