@@ -1,14 +1,19 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        int n=1;
-        unordered_map<int,int>mp;
-        for(auto x:nums){
-            mp[x]++;
+        unordered_set<int> st;
+
+        for (auto x : nums) {
+            if (x > 0)
+                st.insert(x);
         }
-        while(mp.contains(n)){
+
+        int n = 1;
+
+        while (st.contains(n)) {
             n++;
         }
+
         return n;
     }
 };
