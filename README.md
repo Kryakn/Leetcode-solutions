@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Kryakn/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [0954-array-of-doubled-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Kryakn/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kryakn/Leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Kryakn/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Kryakn/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Kryakn/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kryakn/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0954-array-of-doubled-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Kryakn/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kryakn/Leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Kryakn/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Kryakn/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Kryakn/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Kryakn/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [0954-array-of-doubled-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Kryakn/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kryakn/Leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kryakn/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/Kryakn/Leetcode-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kryakn/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
