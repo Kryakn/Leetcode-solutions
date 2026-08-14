@@ -1,17 +1,21 @@
 class Solution {
 public:
     int maximumLengthSubstring(string s) {
-        int res=0;
-        int l=0;
-        vector<int>alph(26,0);
-        for(int r=0;r<s.size();r++){
-            alph[s[r]-'a']++;
-            while(alph[s[r]-'a']>2){
-                alph[s[l]-'a']--;
-                l++;
+        unordered_map<char, int> cnt;  // character -> uska count is window mein
+        int ans = 0;
+        int left = 0;
+        
+        for (int right = 0; right < s.size(); right++) {
+            cnt[s[right]]++;
+            
+            while (cnt[s[right]] > 2) {
+                cnt[s[left]]--;
+                left++;
             }
-            res=max(res,r-l+1);
+            
+            ans = max(ans, right - left + 1);
         }
-        return res;
+        
+        return ans;
     }
 };
