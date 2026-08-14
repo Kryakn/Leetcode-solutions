@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Kryakn/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Kryakn/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Kryakn/Leetcode-solutions/tree/master/0877-stone-game) |
+| [0942-di-string-match](https://github.com/Kryakn/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [0954-array-of-doubled-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Kryakn/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Kryakn/Leetcode-solutions/tree/master/1051-height-checker) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kryakn/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0832-flipping-an-image](https://github.com/Kryakn/Leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/Kryakn/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/Kryakn/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Kryakn/Leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Kryakn/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Kryakn/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0942-di-string-match](https://github.com/Kryakn/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [1154-day-of-the-year](https://github.com/Kryakn/Leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kryakn/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/Kryakn/Leetcode-solutions/tree/master/1927-sum-game) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Kryakn/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Kryakn/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Kryakn/Leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/Kryakn/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [0954-array-of-doubled-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Kryakn/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kryakn/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
