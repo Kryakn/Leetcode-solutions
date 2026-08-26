@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Kryakn/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Kryakn/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Kryakn/Leetcode-solutions/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kryakn/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0942-di-string-match](https://github.com/Kryakn/Leetcode-solutions/tree/master/0942-di-string-match) |
 | [0954-array-of-doubled-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Kryakn/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Kryakn/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Kryakn/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/Kryakn/Leetcode-solutions/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kryakn/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kryakn/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kryakn/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -265,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Kryakn/Leetcode-solutions/tree/master/0175-combine-two-tables) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kryakn/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kryakn/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
