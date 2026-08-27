@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kryakn/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Kryakn/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/Kryakn/Leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Kryakn/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Kryakn/Leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kryakn/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kryakn/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Kryakn/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Kryakn/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Kryakn/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Kryakn/Leetcode-solutions/tree/master/0299-bulls-and-cows) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Kryakn/Leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Kryakn/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Kryakn/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryakn/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bucket Sort
@@ -276,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryakn/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
