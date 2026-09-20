@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Kryakn/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Kryakn/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Kryakn/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kryakn/Leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kryakn/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -327,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kryakn/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kryakn/Leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
