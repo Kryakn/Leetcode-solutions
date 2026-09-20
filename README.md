@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Kryakn/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Kryakn/Leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kryakn/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kryakn/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
