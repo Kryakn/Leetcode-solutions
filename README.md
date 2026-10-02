@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kryakn/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Kryakn/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/Kryakn/Leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kryakn/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Kryakn/Leetcode-solutions/tree/master/1291-sequential-digits) |
+| [1534-count-good-triplets](https://github.com/Kryakn/Leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kryakn/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Game Theory
 |  |
