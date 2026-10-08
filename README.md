@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Kryakn/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Kryakn/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Kryakn/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Kryakn/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/Kryakn/Leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Kryakn/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kryakn/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kryakn/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Kryakn/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kryakn/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Kryakn/Leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Kryakn/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Kryakn/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Kryakn/Leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Kryakn/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kryakn/Leetcode-solutions/tree/master/0229-majority-element-ii) |
